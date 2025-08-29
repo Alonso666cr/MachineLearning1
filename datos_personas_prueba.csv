@@ -79,7 +79,7 @@
 18, Private,309634, 11th,7, Never-married, Other-service, Own-child, White, Female,0,0,22, United-States, <=50K
 31, Local-gov,125927, 7th-8th,4, Married-civ-spouse, Farming-fishing, Husband, White, Male,0,0,40, #, <=50K
 18, Private,446839, HS-grad,9, Never-married, Sales, Not-in-family, White, Male,0,0,30, United-States, <=50K
-52, Private,276515, Bachelors,13, Married-civ-spouse, Other-service, Husband, White, Male,0,0,40, Cuba, <=50K
+52, Private,276515, $,13, Married-civ-spouse, Other-service, Husband, White, Male,0,0,40, $, <=50K
 46, Private,51618, HS-grad,9, Married-civ-spouse, Other-service, Wife, White, Female,0,0,40, United-States, <=50K
 59, Private,159937, HS-grad,9, Married-civ-spouse, Sales, Husband, White, Male,0,0,48, United-States, <=50K
 44, Private,343591, HS-grad,9, Divorced, Craft-repair, Not-in-family, White, Female,14344,0,40, United-States, >50K
